@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<!-- table management -->
+	<string name="addtable">Agregar tabla</string>
+	<string name="edittable">Editar tabla</string>
+	<string name="removetable">Eliminar tabla</string>
+	<string name="removetables">Eliminar tablas</string>
+	<string name="aligntables">Alinear tablas</string>
+	<string name="cleartables">Limpiar tablas</string>
+	<string name="confirmall">¿Realmente deseas eliminar todas las tablas</string>
+	<string name="newtable">Nueva tabla</string>
+	<string name="addpending">Colocar tabla</string>
+	<string name="tablenamelabel">Nombre</string>
+	<string name="tablecommentlabel">Comentario</string>
+
+	<!-- row management -->
+	<string name="addrow">Agregar campo</string>
+	<string name="editrow">Editar campo</string>
+	<string name="removerow">Eliminar campo</string>
+	<string name="uprow">Arriba</string>
+	<string name="downrow">Abajo</string>
+	<string name="newrow">Nuevo campo</string>
+	<string name="foreigncreate">Crear clave foránea</string>
+	<string name="foreignpending">Haz clic en tabla objetivo</string>
+	<string name="foreignconnect">Conectar clave foránea</string>
+	<string name="foreignconnectpending">Haz clic en campo objetivo</string>
+	<string name="foreigndisconnect">Eliminar clave foránea</string>
+	<string name="confirmtable">¿Realmente deseas borrar la tabla</string>
+	<string name="confirmrow">¿Realmente deseas borrar el campo</string>
+
+	<!-- row edit -->
+	<string name="name">Nombre</string>
+	<string name="type">Tipo</string>
+	<string name="size">Tamaño</string>
+	<string name="def">Predeterminado</string>
+	<string name="notnull">NOT NULL</string>
+	<string name="null">NULL</string>
+	<string name="ai">Auto incremento</string>
+	<string name="comment">Editar comentario</string>
+	<string name="commenttext">Ingresa un comentario para este campo</string>
+
+	<!-- windows & options -->
+	<string name="windowok">Aceptar</string>
+	<string name="windowcancel">Cancelar</string>
+	<string name="throbber">Por favor, espera...</string>
+	<string name="options">Opciones</string>
+	<string name="language">Idioma</string>
+	<string name="db">Base de datos para nuevos diseños</string>
+	<string name="optionsnotice">Algunas opciones se aplican solo despúes de recargar totalmente la pagina. Las cookies deben estar habilitadas para que funcione la personalización.</string>
+	<string name="snap">Distancia de ajuste de tablas</string>
+	<string name="optionsnapnotice">En píxeles, 0 = deshabilitar ajuste</string>
+	<string name="pattern">Patrón para nombres de clave foránea</string>
+	<string name="optionpatternnotice">%T = tabla primaria, %R = clave primaria, %t = tabla foránea</string>
+	<string name="hide">¿Ocultar conectores de tablas al arrastrar?</string>
+	<string name="vector">¿Dibujar conectores suaves (si son soportados por el navegador)?</string>
+	<string name="showsize">¿Mostrar tamaño del campo en el diseño de tabla?</string>
+	<string name="showtype">¿Mostrar tipo de dato del campo en el diseño de tabla?</string>
+
+	<!-- keys -->
+	<string name="tablekeys">Claves</string>
+	<string name="keyslistlabel">Llaves en la tabla "%s"</string>
+	<string name="keytypelabel">Tipo:</string>
+	<string name="keynamelabel">Nombre:</string>
+	<string name="keyfieldslabel">Campos en la clave</string>
+	<string name="keyavaillabel">Campos disponibles</string>
+	<string name="keyedit">Editar clave</string>
+	<string name="keyadd">Agregar clave</string>
+	<string name="keyremove">Eliminar clave</string>
+
+	<!-- io -->
+	<string name="saveload">Guardar Base de Datos</string>
+	<string name="clientsql">Generar SQL</string>
+
+	<!-- misc -->
+	<string name="xmlerror">Error XML</string>
+	<string name="docs">Documentación</string>
+
+</locale>
