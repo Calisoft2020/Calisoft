@@ -77,11 +77,11 @@
                                 </thead>
                                 <tbody>
                                     <tr class="text-center">
-                                        <td>{{$r->nombre}}</td>
-                                        <td>{{$r->total}}</td>
-                                        <td>{{$r->acertadas}}</td>
-                                        <td>{{$r->calificacion}}</td>
-                                        <td> 
+                                        <td style="width: 20%">{{$r->nombre}}</td>
+                                        <td style="width: 20%">{{$r->total}}</td>
+                                        <td style="width: 20%">{{$r->acertadas}}</td>
+                                        <td style="width: 20%">{{$r->calificacion}}</td>
+                                        <td style="width: 20%">
                                             @if(($r->acertadas*2) < $r->total || $r->total == 0)
                                                 <i class="glyphicon glyphicon-remove" style="color : red;"></i>         
                                             @else
